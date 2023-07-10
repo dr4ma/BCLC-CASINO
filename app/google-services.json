@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449617646058",
+    "project_id": "bclc-casino",
+    "storage_bucket": "bclc-casino.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449617646058:android:4cd385608f5b374cc52293",
+        "android_client_info": {
+          "package_name": "com.bclccasino.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449617646058-396h2u8tqq2ennqtsr60utrtuvcq3k6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDORR_PupsvVNn8z1dUnAhdKmuM4VBhywQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449617646058-396h2u8tqq2ennqtsr60utrtuvcq3k6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
